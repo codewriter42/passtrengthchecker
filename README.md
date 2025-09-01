@@ -60,6 +60,7 @@ Select an option from the menu:
 Follow the prompts and enjoy enhanced password security.
 
 Example
+
 <code>[1] Check Password Strength
 [2] Generate Strong Random Password
 [3] About
@@ -67,6 +68,7 @@ Example
 Enter your choice > 1
 🔑 Enter your password: mypassword123
 Score: 55 | Strength: MEDIUM</code>
+
 💡 Suggestions:
 - Add uppercase letters.
 - Add special characters (@$!%*?&).
