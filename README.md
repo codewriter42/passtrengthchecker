@@ -78,3 +78,5 @@ Works best in terminals that support ANSI color codes
 Designed for educational and personal use only
 
 No root required
+
+You can help us improve the system by sharing errors with us at codewriter@proton.me . Thank you...
